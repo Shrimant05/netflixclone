@@ -163,6 +163,14 @@ input{
     .hero >:nth-child(3){
         font-size: 17px;
     }
+    .secimg video{
+    position: absolute;
+    top: 51px;
+    right: 0;
+    width: 400px;
+    bottom: 10px;
+
+}
 
 
     

@@ -171,6 +171,21 @@ input{
     bottom: 10px;
 
 }
+    .secimg img{
+    width: 400px;
+    position: relative;
+    z-index: 10;
+    bottom: 10px;
+    top: 5px;
+}
+.secimg{
+    position: relative;
+   top: 10px;
+   height: 350px;
+  
+    z-index: 10;
+   
+}
 
 
     

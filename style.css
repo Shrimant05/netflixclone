@@ -309,4 +309,21 @@ footer{
     .footer{
         grid-template-columns: 1fr 1fr;
     }
+    @media screen and (max-width:300px) {
+    .hero >:first-child{
+        font-weight: 400;
+        font-size: 24px;
+        text-align: center;
+    }
+    .hero >:nth-child(2){
+        font-weight: 200;
+        font-size: 20px;
+        text-align: center;
+    }
+    .hero >:nth-child(3){
+        font-weight: 100;
+        font-size: 15px;
+        text-align: center;
+    }
+    
 }
